@@ -100,7 +100,7 @@ export default function PrivacyPage() {
               <p>We employ industry-leading technical and organizational measures to protect your data. This includes end-to-end encryption for communication, multi-factor authentication, and regular third-party security audits.</p>
               <div className="mt-8 rounded-2xl overflow-hidden grayscale hover:grayscale-0 transition-all duration-700 shadow-lg">
                 <img 
-                  src="/privacy-mockup.png" 
+                  src="privacy-mockup.png" 
                   alt="Secure data server" 
                   className="w-full h-64 object-cover"
                 />

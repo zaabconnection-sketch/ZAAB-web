@@ -50,7 +50,7 @@ export default function LandingPage() {
           >
             <div className="relative z-10 p-4 bg-white rounded-2xl shadow-[0_32px_64px_-12px_rgba(0,0,0,0.1)] border border-black/5 overflow-hidden">
               <img 
-                src="/phone-mockup.png" 
+                src="phone-mockup.png" 
                 alt="ZAAB App Interface" 
                 className="w-full h-auto rounded-xl"
               />
